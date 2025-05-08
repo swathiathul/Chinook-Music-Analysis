@@ -1,2 +1,10 @@
 # Chinook-Music-Analysis
-Analyzed the Chinook Music Store database to identify top artists, genres, and albums. Used advanced SQL (CTEs) to extract trends in customer behavior and sales. Created Excel visualizations to support insights and recommend data-driven sales strategies.
+-- Chinook Music Store Database
+
+-- Analyzed the Chinook Music Store database to identify high-performing artists, genres, and albums, supporting data-driven business decisions.
+
+-- Interpreted customer behavior patterns to provide actionable insights into music preferences and sales performance.
+
+-- Applied advanced SQL techniques, including Common Table Expressions (CTEs), subqueries, and joins, to efficiently retrieve and manipulate data.
+
+-- Used Excel to create charts and dashboards that highlighted key sales trends and supported stakeholder reporting.
